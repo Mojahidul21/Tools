@@ -17,13 +17,14 @@ This note focuses mainly on the **first two** (diagrams you draw/design by hand)
 
 ## 🛠️ Tools for Manually-Drawn Diagrams
 
-| Tool | Best For | Notes |
-|---|---|---|
-| **[draw.io](https://app.diagrams.net/)** (diagrams.net) | Go-to all-rounder | Free, web-based, built-in icon libraries, exports to PNG/SVG/PDF |
-| **PowerPoint** | Quick & familiar | SmartArt + manual icons; easy to align boxes into columns |
-| **[Canva](https://canva.com)** | Polished look, low effort | Ready-made infographic/diagram templates |
-| **[Figma](https://figma.com)** | Pixel-perfect control | Steeper learning curve, best for precise spacing |
-| **[BioRender](https://biorender.com) / [Mind the Graph](https://mindthegraph.com)** | Scientific workflow figures | Large libraries of research-relevant icons (databases, gears, AI/ML symbols) |
+| Tool                           | Best For                          | Notes                                                                                                                                              |
+| ------------------------------ | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **draw.io (diagrams.net)**     | Go-to all-rounder                 | Free, web-based, built-in icon libraries, exports to PNG, SVG, and PDF.                                                                            |
+| **Canva**                      | Polished look, low effort         | Ready-made infographic and diagram templates.                                                                                                      |
+| **Figma**                      | Pixel-perfect control             | Offers precise alignment and spacing, but has a steeper learning curve.                                                                            |
+| **BioRender / Mind the Graph** | Scientific workflow figures       | Large libraries of research-relevant icons (e.g., databases, AI/ML, laboratory, gears).                                                            |
+| **Microsoft PowerPoint**       | Quick and familiar                | SmartArt and manual icons make it easy to create aligned workflow diagrams.                                                                        |
+| **Microsoft Visio**            | Technical and enterprise diagrams | Extensive shape libraries (network, UML, floor plans). Requires a separate license and is not included in the standard Microsoft 365 subscription. |
 
 ## 🖼️ Icon Sources
 
