@@ -19,7 +19,7 @@ This note focuses mainly on the **first two** (diagrams you draw/design by hand)
 
 | Tool | Best For | Notes |
 |---|---|---|
-| **[draw.io](https://app.diagrams.net/)** (diagrams.net) | Go-to all-rounder | Free, web-based, built-in icon libraries, exports to PNG/SVG/PDF |
+| **[draw.io]**(https://app.diagrams.net/) (diagrams.net) | Go-to all-rounder | Free, web-based, built-in icon libraries, exports to PNG/SVG/PDF |
 | **PowerPoint** | Quick & familiar | SmartArt + manual icons; easy to align boxes into columns |
 | **[Canva](https://canva.com)** | Polished look, low effort | Ready-made infographic/diagram templates |
 | **[Figma](https://figma.com)** | Pixel-perfect control | Steeper learning curve, best for precise spacing |
