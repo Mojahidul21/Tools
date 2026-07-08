@@ -23,7 +23,7 @@ This note focuses mainly on the **first two** (diagrams you draw/design by hand)
 | **[Canva](https://canva.com)** | Polished look, low effort | Ready-made infographic/diagram templates |
 | **[Figma](https://figma.com)** | Pixel-perfect control | Steeper learning curve, best for precise spacing |
 | **[BioRender](https://biorender.com) / [Mind the Graph](https://mindthegraph.com)** | Scientific workflow figures | Large libraries of research-relevant icons (databases, gears, AI/ML symbols) |
-| **PowerPoint** | Quick & familiar | SmartArt + manual icons; easy to align boxes into columns |
+| **Microsoft PowerPoint** | Quick & familiar | SmartArt + manual icons; easy to align boxes into columns |
 | **Microsoft Visio** | Technical/enterprise diagrams | Huge shape libraries (network, UML, floor plans) |
 
 ## 🖼️ Icon Sources
