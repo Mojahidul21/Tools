@@ -19,12 +19,11 @@ This note focuses mainly on the **first two** (diagrams you draw/design by hand)
 
 | Tool | Best For | Notes |
 |---|---|---|
-| **[draw.io / diagrams.net](https://app.diagrams.net/)** | Go-to all-rounder | Free, web-based, built-in icon libraries, exports to PNG/SVG/PDF |
-| **PowerPoint** | Quick & familiar | SmartArt + manual icons; easy to align boxes into columns |
+| **[Draw.io / Diagrams.net](https://app.diagrams.net/)** | Go-to all-rounder | Free, web-based, built-in icon libraries, exports to PNG/SVG/PDF |
 | **[Canva](https://canva.com)** | Polished look, low effort | Ready-made infographic/diagram templates |
 | **[Figma](https://figma.com)** | Pixel-perfect control | Steeper learning curve, best for precise spacing |
 | **[BioRender](https://biorender.com) / [Mind the Graph](https://mindthegraph.com)** | Scientific workflow figures | Large libraries of research-relevant icons (databases, gears, AI/ML symbols) |
-| **Microsoft Visio** | Technical/enterprise diagrams | Huge shape libraries (network, UML, floor plans); requires separate license, not in standard Microsoft 365 |
+| **PowerPoint** | Quick & familiar | SmartArt + manual icons; easy to align boxes into columns |
 | **Microsoft Visio** | Technical/enterprise diagrams | Huge shape libraries (network, UML, floor plans); requires separate license, not in standard Microsoft 365 |
 
 ## 🖼️ Icon Sources
