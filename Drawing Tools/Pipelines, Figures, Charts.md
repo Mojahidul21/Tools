@@ -28,7 +28,7 @@ This note focuses mainly on the **first two** (diagrams you draw/design by hand)
 ## 🖼️ Icon Sources
 
 - [Flaticon](https://flaticon.com)
-- [Freepik](https://freepik.com)
+- [Magnific](https://www.magnific.com/app)
 - [The Noun Project](https://thenounproject.com)
 
 > Pick **one icon style** (flat / line / filled) and stick with it throughout — mixing styles is the fastest way to make a diagram look unpolished.
